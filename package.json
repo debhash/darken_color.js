@@ -1,6 +1,6 @@
 {
     "name": "@shybovycha/darken_color",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "darken_color.js",
     "repository": "git@github.com:shybovycha/darken_color.js.git",
     "author": "Artem Shubovych <shybovycha@gmail.com>",
